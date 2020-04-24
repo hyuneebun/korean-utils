@@ -1,10 +1,13 @@
 
 # How to run
+## run
 ```
 pip install -r requirements.txt 
 python count_nouns.py
 ```
 
+## Add text 
+새로운 텍스트를 분석하고 싶다면 test 폴더 안에 text를 넣어주시면 됩니다.
 
 # Example
 ```text
