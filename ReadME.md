@@ -1,11 +1,12 @@
 
-
+# How to run
 ```
 pip install -r requirements.txt 
 python count_nouns.py
 ```
 
 
+# Example
 ```text
 정세균 국무총리는 24일 코로나19 사태로 시행 중인 마스크 5부제와 관련 “다음주부터 공적 마스크 구매량을 1인당 3매로 확대하겠다”고 밝혔다.
 
