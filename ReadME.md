@@ -1,8 +1,11 @@
 
 # How to run
-## run
+# 환경 설정
 ```
 pip install -r requirements.txt 
+```
+## run
+```
 python count_nouns.py
 ```
 
